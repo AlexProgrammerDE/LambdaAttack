@@ -1,3 +1,7 @@
+LambdaAttack is currently not actively maintained. If you need a comparable bot tool, try out [SoulFire](https://github.com/AlexProgrammerDE/SoulFire). It is a maintained fork with extra features.
+
+---
+
 # LambdaAttack
 
 ## Description
